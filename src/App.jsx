@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <div className="container">
-        <h1>Vehicle Gallery</h1>
+        <h1>Vehicle Gallerys</h1>
 
         <nav className="navbar">
           <Link to="/car" className="nav-button">Car</Link>
